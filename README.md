@@ -11,16 +11,16 @@ La partie Hardware du projet a été réalisée via un fichier VHDL et testée v
 
 La partie Software consiste en 1 fichier C (main.c) et son en-tête/header (hps_0.h) qui se charge d'afficher la valeur codée sur 8 bits à l'écran.
 
-## Matériel
+## MATERIEL
 
-* Un tuto vidéo, pour montrer comment connecter la carte, comment créer un nouveau projet, comment programmer la FPGA, pour lire et écrire la valeur d'une fréquence dans un registre + résultats.
+* Un tuto vidéo, pour montrer comment connecter la carte, comment programmer la FPGA, pour lire et écrire la valeur d'une fréquence dans un registre + résultats.
 * Codes sources utilisés pendant le projet.
 
-## Vidéo
+## VIDEO
 
-Ce projet a été réalisé à la faculté d'ingénierie de l'UMONS en avril-mai 2022 dans le cadre du cours Hardware-Software Platforms avec le professeur C. Valderamma.
+Ce projet a été réalisé à la faculté d'ingénierie de l'UMONS (F.P.Ms) en avril-mai 2022 dans le cadre du cours Hardware-Software Platforms avec le professeur C. Valderamma.
 
-## Auteurs
+## AUTEURS
 
 Jules Bourgeois : Hardware et Scribe
 Léo Grugeon : Software
