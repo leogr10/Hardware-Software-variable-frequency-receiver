@@ -20,6 +20,9 @@ La partie Software consiste en 1 fichier C (main.c) et son en-tête/header (hps_
 
 Ce projet a été réalisé à la faculté d'ingénierie de l'UMONS (F.P.Ms) en avril-mai 2022 dans le cadre du cours Hardware-Software Platforms avec le professeur C. Valderamma.
 
+Lien : 
+https://youtu.be/L0wzS1E58ek
+
 ## AUTEURS
 
 Jules Bourgeois : Hardware et Scribe
